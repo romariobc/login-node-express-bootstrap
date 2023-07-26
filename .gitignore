@@ -1,0 +1,5 @@
+# este arquivo serve apenas para mostrar pro github quais arquivos e pastas a serem ignorados
+
+node_modules/
+.vscode/
+
